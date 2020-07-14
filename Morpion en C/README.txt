@@ -1,4 +1,4 @@
--- JEU DE MORPION Ð
+-- JEU DE MORPION --
 
 Jeu de Morpion réalisé en C dans le cadre du cours Système d'exploitation enseigné par Rémy GRUNBLATT.
 
