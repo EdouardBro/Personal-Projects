@@ -1,8 +1,8 @@
 # Personal-Projects
 
-Ce dépôt public rassemble différents projets réalisés par moi même lors de mes cours ou non.
+Ce dépôt public rassemble différents projets réalisés lors de mes cours.
 
 
 -- English --
 
-This repository gathers some projects I did in class, or during my spare time.
+This repository gathers some projects I did in class.
