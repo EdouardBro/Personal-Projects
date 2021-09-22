@@ -1,6 +1,6 @@
 -- APPLICATION TFTP --
 
-Cette application réseau TFTP a été réalisée dans le cadre d'un cours de réseau. Mon rôle était de coder la partie "Receive File", c'est pourquoi la partie "Scend File" est indisponible (du moins pour le moment).
+Cette application réseau TFTP a été réalisée dans le cadre d'un cours de réseau. Mon rôle était de coder la partie "Receive File", c'est pourquoi la partie "Scend File" est indisponible.
 
 TFTP (Trivial File Transfert Protocol) est un protocole basé sur UDP qui permet le transfert de fichiers.
 
