@@ -11,7 +11,7 @@ Au lancement de l'Application vous devrez rentrer :
 - 1 pour recevoir un fichier
 - 2 pour envoyer un fichier (l'envoi d'un fichier n'a pas été codé).
 
-Ensuite vous devrez rentrer le nom du fichier avec son extension. Vous pouvez transférer tout type de fichier : textes, images, vidéos ...
+Ensuite vous devrez entrer le nom du fichier avec son extension. Vous pouvez transférer tout type de fichier : textes, images, vidéos ...
 
 TFTP est un protocole généralement utilisé sur des réseaux locaux.
 
